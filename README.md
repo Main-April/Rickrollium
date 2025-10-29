@@ -1,4 +1,16 @@
 # Rickroll Application
+## !! Important Warnings !!
+### Photosensitivity / Epilepsy Warning
+This application contains rapidly flashing colors and animations that may trigger seizures in people with photosensitive epilepsy or other photosensitive conditions.
+If you or anyone who may view this application has a history of epilepsy, seizures, or photosensitivity, DO NOT run this application. The disco mode feature includes:
+
+### Rapid color changes (every 200ms)
+### Flashing fullscreen effects
+###Multiple animated elements moving simultaneously
+
+Viewer discretion is strongly advised.
+## Usage Disclaimer
+This application is intended for harmless pranks among friends in controlled environments. Please use responsibly and ensure you have permission before running it on someone else's computer. Always warn users about the photosensitive content before running the application.
 
 A playful prank application that creates animated popups and changes the desktop wallpaper, accompanied by music playback.
 
@@ -101,10 +113,6 @@ The application is organized into several key components:
 - Windows-only wallpaper management (uses PowerShell and Windows registry)
 - Requires Windows user32.dll for SystemParametersInfo
 - Assets must be present in the `assets/` directory
-
-## Disclaimer
-
-This application is intended for harmless pranks among friends. Please use responsibly and ensure you have permission before running it on someone else's computer.
 
 ## License
 
