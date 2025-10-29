@@ -6,7 +6,7 @@ If you or anyone who may view this application has a history of epilepsy, seizur
 
 ### Rapid color changes (every 200ms)
 ### Flashing fullscreen effects
-###Multiple animated elements moving simultaneously
+### Multiple animated elements moving simultaneously
 
 Viewer discretion is strongly advised.
 ## Usage Disclaimer
